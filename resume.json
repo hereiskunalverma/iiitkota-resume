@@ -1,0 +1,87 @@
+{
+	"basics": {
+		"name": "Kunal Verma",
+		"label": "Student",
+		"picture": "https://avatars.githubusercontent.com/u/68738369?v=4",
+		"email": "2020kucp1093@iiitkota.ac.in",
+		"phone": "+91-7014114843",
+		"website": "https://hereiskunalverma.github.io/tlrc/index.html",
+		"summary": "I am a prodigious reader, a self-learner, a dedicated Competitive Programmer, an enthusiast, an optimistic and ambitious person.",
+		"location": {
+			"address": "H.No-144, Subash Chowk Kashyap Marg",
+			"postalCode": "302002",
+			"city": "Jaipur",
+			"countryCode": "+91",
+			"region": "Rajasthan"
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "19kunalverma",
+				"url": "https://www.twitter.com/19kunalverma"
+			},
+			{
+				"network": "Github",
+				"username": "hereiskunalverma",
+				"url": "https://www.github.com/hereiskunalverma/"
+			},
+			{
+				"network": "linkedin",
+				"username": "kunalverma19",
+				"url": "https://www.linkedin.com/in/kunalverma19/"
+			},
+			{
+				"network": "Instagram",
+				"username": "hereiskunalverma",
+				"url": "https://www.instagram.com/hereiskunalverma/"
+			}
+		]
+	},
+	"work": [{
+		"company": "Sid&Co",
+		"position": "Web Developer",
+		"website": "https://sidhantsidana.com",
+		"startDate": "2021-06-28",
+		"endDate": "Current ",
+		"summary": "Marketing & Advertising",
+		"highlights": ["Add Highlights", "Your work details"]
+	}],
+	"volunteer": [{
+		"organization": "St. Michael's Sr. Sec. School",
+		"position": "Head Boy",
+		"website": "http://www.stmichaelschooljpr.in/",
+		"startDate": "2017",
+		"endDate": "2019",
+		"summary": "Served as the Head Boy for two consecutive years.",
+		"highlights": []
+	}],
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor of Technology",
+		"startDate": "2020-12-08",
+		"endDate": "----",
+		"gpa": "9.23 (I Semester)",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"awards": [{
+		"title": "National Handball Player",
+		"awarder": "---Receiverd By ---",
+		"date": "2020-08-21//Date"
+	}],
+	"publications": [{
+		"title": "---Enter Title---",
+		"details": "---Enter Details---",
+		"link": "---github/website link to show your work---"
+	}],
+	"skills": [{
+		"level": "Master",
+		"keywords": ["HTML", "CSS", "Javascript", "React", "C/C++", "Add more"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Chess", "Badminton"]
+	}],
+	"references": []
+}
