@@ -6,7 +6,7 @@
 		"email": "2020kucp1093@iiitkota.ac.in",
 		"phone": "+91-7014114843",
 		"website": "https://hereiskunalverma.github.io/tlrc/index.html",
-		"summary": "I am a prodigious reader, a self-learner, a dedicated Competitive Programmer, an enthusiast, an optimistic and ambitious person.",
+		"summary": "I am a prodigious reader, a self-learner, an enthusiast, an optimistic and ambitious person.",
 		"location": {
 			"address": "H.No-144, Subash Chowk Kashyap Marg",
 			"postalCode": "302002",
@@ -41,7 +41,6 @@
 		"position": "Web Developer",
 		"website": "https://sidhantsidana.com",
 		"startDate": "2021-06-28",
-		"endDate": "Current ",
 		"summary": "Marketing & Advertising",
 		"highlights": ["Add Highlights", "Your work details"]
 	}],
@@ -54,7 +53,8 @@
 		"summary": "Served as the Head Boy for two consecutive years.",
 		"highlights": []
 	}],
-	"education": [{
+	"education": [
+		{
 		"institution": "Indian Institute of Information technology,kota",
 		"area": "Engineering",
 		"studyType": "Bachelor of Technology",
@@ -64,24 +64,63 @@
 		"courses": [
 			"Computer Science & Engineering"
 		]
-	}],
+	},
+	{
+		"institution": "St. Michale's Sr. Sec. School",
+		"area": "12th",
+		"endDate": "2019",
+		"courses": [
+			"PCM"
+		]	
+	},
+	{
+		"institution": "St. Michale's Sr. Sec. School",
+		"area": "10th",
+		"endDate": "2017"
+	}
+],
 	"awards": [{
+		"title": "Jaipur Samaroh - 2015, Ist in Sports and IIIrd in Art Competition",
+		"date": "2015"
+		
+	},
+	{
 		"title": "National Handball Player",
-		"awarder": "---Receiverd By ---",
-		"date": "2020-08-21//Date"
-	}],
+		"awarder": "Throwball Federation of India {R}",
+		"date": "2016"
+	},
+	{
+		"title": "Student Of The Year (12th)",
+		"awarder": "St Michael's Sr. Sec. School",
+		"date": "2019"
+	}
+],
 	"publications": [{
-		"title": "---Enter Title---",
-		"details": "---Enter Details---",
-		"link": "---github/website link to show your work---"
-	}],
-	"skills": [{
+		"title": "Energy Efficiency of Buildings",
+		"details": "This is the implementation of Energy Efficiency of Buildings/Apartments which predicts the relationship of various factors like 'Relative compactness', 'Surface area', 'Wall area', 'Roof area', 'Overall Height', 'Orientation', 'Glazing Area', and 'Glazing Area Distribution' on Heating Load and Cooling Load.",
+		"link": "https://secret-ridge-53404.herokuapp.com/"
+	},
+	{
+		"title": "Alzheimer's Disease Early Stage Detection",
+		"details": "This the implementation of Early Stage Detection of Alzheimer Disease with MRI Scan.",
+		"link": "https://github.com/hereiskunalverma/Random_Repository/tree/main/Alzheimer's%20Early%20Stage%20Detection"
+	}
+],
+	"skills": [
+		{
 		"level": "Master",
-		"keywords": ["HTML", "CSS", "Javascript", "React", "C/C++", "Add more"]
-	}],
-	"interests": [{
-		"name": "Sports",
-		"keywords": ["Chess", "Badminton"]
-	}],
+		"keywords": ["HTML", "CSS", "Javascript", "C/C++", "Python", "Machine Learning"]
+	},
+	{
+		"level": "Beginner",
+		"keywords": ["Competitive Programming", "REACT.js", "Node.js"]
+	}
+],
+	"interests": [
+		{
+		"name": "Book Reading",
+		"keywords": ["Biographies", "Sci-Fi", "Human & Space History", "Economics", "Programming", "Science", "Artificial Intelligence", "Robotics"]
+		}
+],
 	"references": []
 }
