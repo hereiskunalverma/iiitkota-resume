@@ -1,126 +1,151 @@
 {
-	"basics": {
-		"name": "Kunal Verma",
-		"label": "Student",
-		"picture": "https://avatars.githubusercontent.com/u/68738369?v=4",
-		"email": "2020kucp1093@iiitkota.ac.in",
-		"phone": "+91-7014114843",
-		"website": "https://hereiskunalverma.github.io/tlrc/index.html",
-		"summary": "I am Kunal Verma from Jaipur, Rajasthan. I am currently pursuing B.Tech in Computer Science & Engineering from Indian Institute Of Information Technology, Kota.
-		I am a prodigious reader, a self-learner, a dedicated Competitive Programmer, an enthusiast, an optimistic and ambitious person.
-		I love to create.",
-		"location": {
-			"address": "H.No-144, Subash Chowk Kashyap Marg",
-			"postalCode": "302002",
-			"city": "Jaipur",
-			"countryCode": "India",
-			"region": "Rajasthan"
-		},
-		"profiles": [{
-				"network": "Twitter",
-				"username": "19kunalverma",
-				"url": "https://www.twitter.com/19kunalverma"
-			},
-			{
-				"network": "Github",
-				"username": "hereiskunalverma",
-				"url": "https://www.github.com/hereiskunalverma/"
-			},
-			{
-				"network": "linkedin",
-				"username": "kunalverma19",
-				"url": "https://www.linkedin.com/in/kunalverma19/"
-			},
-			{
-				"network": "Instagram",
-				"username": "hereiskunalverma",
-				"url": "https://www.instagram.com/hereiskunalverma/"
-			}
-		]
-	},
-	"work": [{
-		"company": "Sid&Co",
-		"position": "Web Developer",
-		"website": "https://sidhantsidana.com",
-		"startDate": "2021-06-28",
-		"summary": "Marketing & Advertising",
-		"highlights": ["Creates and Manages FrontEnd and Backend of HTML, CSS, and JS Websites"]
-	}],
-	"volunteer": [{
-		"organization": "St. Michael's Sr. Sec. School",
-		"position": "Head Boy",
-		"website": "http://www.stmichaelschooljpr.in/",
-		"startDate": "2017",
-		"endDate": "2019",
-		"summary": "HeadBoy (10th-11th)",
-		"highlights": ["Served as the Head Boy for two consecutive years."]
-	}],
-	"education": [
-		{
-		"institution": "Indian Institute of Information technology,kota",
-		"area": "Engineering",
-		"studyType": "Bachelor of Technology",
-		"startDate": "2020-12-08",
-		"endDate":"Current",
-		"courses": [
-			"Computer Science & Engineering"
-		]
-	},
-	{
-		"institution": "St. Michale's Sr. Sec. School",
-		"area": "12th",
-		"endDate": "2019",
-		"courses": [
-			"PCM"
-		]	
-	},
-	{
-		"institution": "St. Michale's Sr. Sec. School",
-		"area": "10th",
-		"endDate": "2017"
-	}
-],
-	"awards": [{
-		"title": "District Level Competiton- 2015, Ist in Sports and IIIrd in Art Competition",
-		"date": "2015"
-		
-	},
-	{
-		"title": "National Handball Player",
-		"awarder": "Throwball Federation of India {R}",
-		"date": "2016"
-	},
-	{
-		"title": "Student Of The Year (12th)",
-		"awarder": "St Michael's Sr. Sec. School",
-		"date": "2019"
-	}
-],
-	"publications": [{
-		"title": "Energy Efficiency of Buildings",
-		"details": "This is the implementation of Energy Efficiency of Buildings/Apartments which predicts the relationship of various factors like 'Relative compactness', 'Surface area', 'Wall area', 'Roof area', 'Overall Height', 'Orientation', 'Glazing Area', and 'Glazing Area Distribution' on Heating Load and Cooling Load.",
-		"link": "https://secret-ridge-53404.herokuapp.com/"
-	},
-	{
-		"title": "Alzheimer's Disease Early Stage Detection",
-		"details": "This the implementation of Early Stage Detection of Alzheimer Disease with MRI Scan.",
-		"link": "https://github.com/hereiskunalverma/Random_Repository/tree/main/Alzheimer's%20Early%20Stage%20Detection"
-	}
-],
-	"skills": [
-		{
-		"keywords": ["HTML", "CSS", "Competitive Programming", "Data Structures & Algorithms", "Javascript", "C/C++", "Python", "Machine Learning", "PHP","SQL","React.JS","Node.JS", "MongoDB"]
-	}
-],
-	"interests": [
-		{
-		"name": "Book Reading",
-		"keywords": ["Biographies", "Sci-Fi", "Human & Space History", "Economics", "Programming", "Science", "Artificial Intelligence", "Robotics"]
-		},
-		{
-			"name":"Art",
-			"keywords":["Sketching","Glass Painting"]
-		}
-],
-	"references": []
+  "basics": {
+    "name": "Kunal Verma",
+    "label": "Student",
+    "picture": "https://avatars.githubusercontent.com/u/68738369?v=4",
+    "email": "2020kucp1093@iiitkota.ac.in",
+    "phone": "+91-7014114843",
+    "website": "https://hereiskunalverma.github.io/tlrc/index.html",
+    "summary": "I am Kunal Verma from Jaipur, Rajasthan. I am currently pursuing B.Tech in Computer Science & Engineering from Indian Institute Of Information Technology, Kota. I am a prodigious reader, a self - learner, a dedicated Competitive Programmer, an enthusiast, an optimistic and ambitious person. I love to create.",
+    "location": {
+      "address": "H.No-144, Subash Chowk Kashyap Marg",
+      "postalCode": "302002",
+      "city": "Jaipur",
+      "countryCode": "India",
+      "region": "Rajasthan"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "19kunalverma",
+        "url": "https://www.twitter.com/19kunalverma"
+      },
+      {
+        "network": "Github",
+        "username": "hereiskunalverma",
+        "url": "https://www.github.com/hereiskunalverma/"
+      },
+      {
+        "network": "linkedin",
+        "username": "kunalverma19",
+        "url": "https://www.linkedin.com/in/kunalverma19/"
+      },
+      {
+        "network": "Instagram",
+        "username": "hereiskunalverma",
+        "url": "https://www.instagram.com/hereiskunalverma/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Sid&Co",
+      "position": "Web Developer",
+      "website": "https://sidhantsidana.com",
+      "startDate": "2021-06-28",
+      "summary": "Marketing & Advertising",
+      "highlights": [
+        "Creates and Manages FrontEnd and Backend of HTML, CSS, and JS Websites"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "St. Michael's Sr. Sec. School",
+      "position": "Head Boy",
+      "website": "http://www.stmichaelschooljpr.in/",
+      "startDate": "2017",
+      "endDate": "2019",
+      "summary": "HeadBoy (10th-11th)",
+      "highlights": ["Served as the Head Boy for two consecutive years."]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Indian Institute of Information technology,kota",
+      "area": "Engineering",
+      "studyType": "Bachelor of Technology",
+      "startDate": "2020-12-08",
+      "endDate": "Current",
+      "courses": ["Computer Science & Engineering"]
+    },
+    {
+      "institution": "St. Michale's Sr. Sec. School",
+      "area": "12th",
+      "endDate": "2019",
+      "courses": ["PCM"]
+    },
+    {
+      "institution": "St. Michale's Sr. Sec. School",
+      "area": "10th",
+      "endDate": "2017"
+    }
+  ],
+  "awards": [
+    {
+      "title": "District Level Competiton- 2015, Ist in Sports and IIIrd in Art Competition",
+      "date": "2015"
+    },
+    {
+      "title": "National Handball Player",
+      "awarder": "Throwball Federation of India {R}",
+      "date": "2016"
+    },
+    {
+      "title": "Student Of The Year (12th)",
+      "awarder": "St Michael's Sr. Sec. School",
+      "date": "2019"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Energy Efficiency of Buildings",
+      "details": "This is the implementation of Energy Efficiency of Buildings/Apartments which predicts the relationship of various factors like 'Relative compactness', 'Surface area', 'Wall area', 'Roof area', 'Overall Height', 'Orientation', 'Glazing Area', and 'Glazing Area Distribution' on Heating Load and Cooling Load.",
+      "link": "https://secret-ridge-53404.herokuapp.com/"
+    },
+    {
+      "title": "Alzheimer's Disease Early Stage Detection",
+      "details": "This the implementation of Early Stage Detection of Alzheimer Disease with MRI Scan.",
+      "link": "https://github.com/hereiskunalverma/Random_Repository/tree/main/Alzheimer's%20Early%20Stage%20Detection"
+    }
+  ],
+  "skills": [
+    {
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Competitive Programming",
+        "Data Structures & Algorithms",
+        "Javascript",
+        "C/C++",
+        "Python",
+        "Machine Learning",
+        "PHP",
+        "SQL",
+        "React.JS",
+        "Node.JS",
+        "MongoDB"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Book Reading",
+      "keywords": [
+        "Biographies",
+        "Sci-Fi",
+        "Human & Space History",
+        "Economics",
+        "Programming",
+        "Science",
+        "Artificial Intelligence",
+        "Robotics"
+      ]
+    },
+    {
+      "name": "Art",
+      "keywords": ["Sketching", "Glass Painting"]
+    }
+  ],
+  "references": []
 }
